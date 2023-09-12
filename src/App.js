@@ -18,7 +18,7 @@ const comprar = (p) =>{
   setCarrinho([...carrinho, p]);
   console.log("Carrinho: ", carrinho);
 }; 
-
+// test
 const renderItemCarrinho = (p) =>{
   return(
 
